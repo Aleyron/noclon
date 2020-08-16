@@ -22,4 +22,11 @@
                 set type email
                 set email-pattern "*@dieboldnixdorf.us"
             next
-			
+            edit 420
+                set type email
+                set email-pattern "*@medvedshop.ru"
+            next
+            edit 421
+                set type email
+                set email-pattern "*@mido.pro"
+            next
