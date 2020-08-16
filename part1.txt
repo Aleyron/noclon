@@ -35,8 +35,19 @@
         set visibility disable
         set subnet 2.72.126.100 255.255.255.255
     next
-    edit "67.32.62.180"
+    edit "67.32.61.181"
         set uuid f4c30fe8-d088-51e5-df18-2c4f862d8b8a
         set comment "Brute Force attacker for RDP"
-        set subnet 67.32.62.180 255.255.255.255
+        set subnet 67.32.61.181 255.255.255.255
+    next
+
+    edit "31.135.220.110"
+        set uuid f63d8fe0-d08a-51e5-30f1-a5b296f5a670
+        set comment "Anomaly activity for RDP"
+        set subnet 31.135.220.110 255.255.255.255
+    next
+    edit "70.35.195.0/24"
+        set uuid 3cabcbbe-d14d-51e5-eae1-f20b929877fa
+        set comment "Brute Force attacker for Mail server"
+        set subnet 70.35.195.0 255.255.255.0
     next

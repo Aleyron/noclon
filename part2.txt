@@ -1,0 +1,25 @@
+            edit 404
+                set type email
+                set email-pattern "lpu1502@neftcrb.ru"
+            next
+            edit 405
+                set type email
+                set email-pattern "*@bankica.com"
+            next
+            edit 406
+                set type email
+                set email-pattern "*@fpbank.ru"
+            next
+			edit 429
+                set type email
+                set email-pattern "v.constancio@ecb-europa.info"
+            next
+			edit 431
+                set type email
+                set email-pattern "nadzor_cfo@mail.ru"
+            next
+            edit 432
+                set type email
+                set email-pattern "*@dieboldnixdorf.us"
+            next
+			
