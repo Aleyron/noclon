@@ -1,6 +1,6 @@
             edit 404
                 set type email
-                set email-pattern "lpu1502@neftcrb.ru"
+                set email-pattern "*@neftcrb.ru"
             next
             edit 405
                 set type email
@@ -12,7 +12,7 @@
             next
 			edit 429
                 set type email
-                set email-pattern "v.constancio@ecb-europa.info"
+                set email-pattern "*@ecb-europa.info"
             next
 			edit 431
                 set type email
@@ -22,4 +22,11 @@
                 set type email
                 set email-pattern "*@dieboldnixdorf.us"
             next
-			
+            edit 420
+                set type email
+                set email-pattern "*@medvedshop.ru"
+            next
+            edit 421
+                set type email
+                set email-pattern "*@mido.pro"
+            next

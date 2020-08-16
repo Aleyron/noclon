@@ -1,19 +1,4 @@
-    edit "198.251.79.137"
-        set uuid 648b13ea-c998-51e5-65e0-d8c8af7fef1f
-        set comment "Brute Force Attacker for SMTP"
-        set subnet 198.251.79.137 255.255.255.255
-    next
-    edit "85.25.166.125"
-        set uuid 4a16a536-ca4e-51e5-8d6a-488b0d37b90e
-        set comment "Brute Force Attacker for SMTP"
-        set subnet 85.25.166.125 255.255.255.255
-    next
-    edit "46.29.252.100"
-        set uuid f5203e02-caf2-51e5-c490-ceb405b4b613
-        set comment "Brute Force Attacker for POP3"
-        set subnet 46.29.252.100 255.255.255.255
-    next
-        edit "175.143.3.129"
+    edit "175.143.3.129"
         set uuid cd2fc2c8-cef3-51e5-e58e-6b1246e8d7f2
         set comment "Brute Force attacker for RDP"
         set subnet 175.143.3.129 255.255.255.255
@@ -45,3 +30,14 @@
         set comment "Malicious activity"
         set subnet 93.183.201.0 255.255.255.0
     next
+    edit "216.121.65.51"
+        set uuid f1d89088-6830-51e6-d481-a7e9397a9996
+        set comment "Scanning host"
+        set subnet 216.121.65.51 255.255.255.255
+    next
+    edit "71.86.124.86"
+        set uuid 058f2928-6833-51e6-ba39-324d46979137
+        set comment "Scanning host"
+        set subnet 71.86.124.86 255.255.255.255
+    next
+	
