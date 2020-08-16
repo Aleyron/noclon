@@ -1,11 +1,11 @@
     edit "198.251.79.137"
         set uuid 648b13ea-c998-51e5-65e0-d8c8af7fef1f
-        set comment "Brute Force Attacker for smtp"
+        set comment "Brute Force Attacker for SMTP"
         set subnet 198.251.79.137 255.255.255.255
     next
     edit "85.25.166.125"
         set uuid 4a16a536-ca4e-51e5-8d6a-488b0d37b90e
-        set comment "Brute Force Attacker for smtp"
+        set comment "Brute Force Attacker for SMTP"
         set subnet 85.25.166.125 255.255.255.255
     next
     edit "46.29.252.100"
@@ -35,14 +35,8 @@
         set visibility disable
         set subnet 2.72.126.100 255.255.255.255
     next
-    edit "67.32.61.180"
+    edit "67.32.62.180"
         set uuid f4c30fe8-d088-51e5-df18-2c4f862d8b8a
         set comment "Brute Force attacker for RDP"
-        set subnet 67.32.61.180 255.255.255.255
+        set subnet 67.32.62.180 255.255.255.255
     next
-    edit "195.22.126.0/24"
-        set uuid a8cfc314-d089-51e5-768f-9144f726c66d
-        set comment "Anomaly activity for RDP"
-        set subnet 195.22.126.0 255.255.255.0
-    next
-    
