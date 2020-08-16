@@ -45,3 +45,14 @@
         set comment "Malicious activity"
         set subnet 93.183.201.0 255.255.255.0
     next
+    edit "216.121.65.51"
+        set uuid f1d89088-6830-51e6-d481-a7e9397a9996
+        set comment "Scanning host"
+        set subnet 216.121.65.51 255.255.255.255
+    next
+    edit "71.86.124.86"
+        set uuid 058f2928-6833-51e6-ba39-324d46979137
+        set comment "Scanning host"
+        set subnet 71.86.124.86 255.255.255.255
+    next
+	
